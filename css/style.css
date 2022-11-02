@@ -695,7 +695,7 @@
           background-color: #132945;
           animation: h2-bottom 1s infinite ease-in-out alternate;
       }
-      @media (max-width: 800px){
+      @media (max-width: 430px){
       .contactme input {
           padding: 10px;
           margin-bottom: 10px;
