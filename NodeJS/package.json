@@ -1,0 +1,10 @@
+{
+    "scripts" : {
+    "start" : "node index.js"
+    },
+    "dependencies": {
+    "express": "4.17.1",
+    "mongoose": "5.13.3",
+    "cors": "2.8.5"
+    }
+    }

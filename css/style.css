@@ -217,7 +217,7 @@
   /* NAVBAR STYLING ENDS HERE */
   
   header {
-    background-image: url("/img/bg.jpg");
+    background-image: url("../img/bg.jpg");
     background-size: cover;
     height: 100vh;
     display: flex;
@@ -447,7 +447,7 @@
         color:white;
         position:relative
       }
-  
+  .testimotionals
   
   
   .education{
@@ -668,7 +668,8 @@
     height: 20px;
     margin: 0;
     text-align: center;
-  }   
+  }  
+
       .contactme {
           display: flex;
           justify-content: center;
@@ -678,6 +679,7 @@
           font-family: 'Source Sans Pro', sans-serif;
           color: #132945;
       }
+    
       
       .contactme h2 {
           font-size: 50px;
@@ -695,7 +697,6 @@
           background-color: #132945;
           animation: h2-bottom 1s infinite ease-in-out alternate;
       }
-      
       .contactme input {
           padding: 10px;
           margin-bottom: 10px;
@@ -704,6 +705,7 @@
           box-shadow: 0px 0px 2px;
           width: 100%;
       }
+    
       
       .content {
           padding: 2rem;
@@ -725,6 +727,7 @@
           padding: 10px;
           width: 50%;
       }
+      
       footer {
         height: 15vh;
         background-color: white;
@@ -773,3 +776,4 @@
         text-shadow: 0px 0px 10px #2f60a0;
         
     }
+  
