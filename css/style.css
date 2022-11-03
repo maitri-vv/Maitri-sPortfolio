@@ -697,6 +697,10 @@
           background-color: #132945;
           animation: h2-bottom 1s infinite ease-in-out alternate;
       }
+<<<<<<< HEAD
+=======
+      @media (max-width: 430px){
+>>>>>>> cf1043d483f8ca74414a5a023efd8d1e4ae2f754
       .contactme input {
           padding: 10px;
           margin-bottom: 10px;
@@ -705,7 +709,11 @@
           box-shadow: 0px 0px 2px;
           width: 100%;
       }
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> cf1043d483f8ca74414a5a023efd8d1e4ae2f754
       
       .content {
           padding: 2rem;
@@ -727,7 +735,11 @@
           padding: 10px;
           width: 50%;
       }
+<<<<<<< HEAD
       
+=======
+}
+>>>>>>> cf1043d483f8ca74414a5a023efd8d1e4ae2f754
       footer {
         height: 15vh;
         background-color: white;
@@ -776,4 +788,7 @@
         text-shadow: 0px 0px 10px #2f60a0;
         
     }
+<<<<<<< HEAD
   
+=======
+>>>>>>> cf1043d483f8ca74414a5a023efd8d1e4ae2f754
